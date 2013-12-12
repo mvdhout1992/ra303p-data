@@ -1,0 +1,129 @@
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%Red Alert - Soviet\RASoviet.icl,0
+
+[CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%Red Alert - Soviet\RASoviet.icl,1
+
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%ThemeDir%Red Alert - Soviet\RASoviet.icl,3
+empty=%ThemeDir%Red Alert - Soviet\RASoviet.icl,2
+
+[Control Panel\Cursors]
+Arrow=%ThemeDir%Red Alert - Soviet\Arrow.cur
+Help=
+AppStarting=%ThemeDir%Red Alert - Soviet\AppStarting.ani
+Wait=%ThemeDir%Red Alert - Soviet\Wait.cur
+NWPen=
+No=
+SizeNS=%ThemeDir%Red Alert - Soviet\SizeNS.ani
+SizeWE=%ThemeDir%Red Alert - Soviet\SizeWE.ani
+Crosshair=
+IBeam=
+SizeNWSE=%ThemeDir%Red Alert - Soviet\SizeDiag.ani
+SizeNESW=%ThemeDir%Red Alert - Soviet\SizeDiag.ani
+SizeAll=
+UpArrow=
+DefaultValue=
+
+[Control Panel\Desktop]
+Wallpaper=%ThemeDir%RED ALERT - SOVIET\RASOVIET.BMP
+Pattern=(None)
+TileWallpaper=0
+WallpaperStyle=0
+
+[AppEvents\Schemes\Apps\.Default\.Default\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\default sound.wav
+
+[AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\program error.wav
+
+[AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\maximize.wav
+
+[AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\menu command.wav
+
+[AppEvents\Schemes\Apps\.Default\MenuPopup\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\menu popup.wav
+
+[AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\minimize.wav
+
+[AppEvents\Schemes\Apps\.Default\Open\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Close\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\restore down.wav
+
+[AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\restore up.wav
+
+[AppEvents\Schemes\Apps\.Default\RingIn\.Current]
+DefaultValue=%WinDir%media\ringin.wav
+
+[AppEvents\Schemes\Apps\.Default\Ringout\.Current]
+DefaultValue=%WinDir%media\ringout.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemDefault\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\default beep.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\exclamation.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\exit windows.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\critical stop.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\question.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\start windows.wav
+
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+DefaultValue=%ThemeDir%Red Alert - Soviet\empty recycle bin.wav
+
+[Metrics]
+IconMetrics=76 0 0 0 74 0 0 0 74 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 65 114 105 97 108 0 109 112 116 121 32 114 101 99 121 99 108 101 32 98 105 110 46 119 97 118 0 98 105 110 46 119
+NonclientMetrics=84 1 0 0 1 0 0 0 13 0 0 0 13 0 0 0 18 0 0 0 18 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 65 114 105 97 108 0 109 101 115 92 82 65 83 111 118 105 101 116 46 84 104 101 109 101 0 221 64 0 0 0 0 0 14 0 0 0 14 0 0 0 247 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 65 114 105 97 108 0 109 101 115 92 82 65 83 111 118 105 101 116 46 84 104 101 109 101 0 221 64 0 0 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 65 114 105 97 108 0 109 101 115 92 82 65 83 111 118 105 101 116 46 84 104 101 109 101 0 221 64 0 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 65 114 105 97 108 0 109 101 115 92 82 65 83 111 118 105 101 116 46 84 104 101 109 101 0 221 64 0 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 65 114 105 97 108 0 109 101 115 92 82 65 83 111 118 105 101 116 46 84 104 101 109 101 0 221 64 0 0 0 0 0
+
+[Control Panel\Colors]
+ActiveTitle=0 0 64
+Background=152 192 209
+Hilight=128 128 128
+HilightText=0 0 0
+TitleText=255 255 255
+Window=255 255 255
+WindowText=0 0 0
+Scrollbar=192 192 192
+InactiveTitle=128 128 128
+Menu=192 192 192
+WindowFrame=0 0 0
+MenuText=0 0 0
+ActiveBorder=255 255 255
+InactiveBorder=0 0 0
+AppWorkspace=128 128 128
+ButtonFace=192 192 192
+ButtonShadow=128 128 128
+GrayText=128 128 128
+ButtonText=0 0 0
+InactiveTitleText=255 252 240
+ButtonHilight=255 255 255
+ButtonDkShadow=0 0 0
+ButtonLight=192 192 192
+InfoText=0 0 0
+InfoWindow=255 255 255
+
+[boot]
+SCRNSAVE.EXE=C:\PROGRA~1\MCAFEE\VIRUSS~1\ScrScan.EXE
+
+[MasterThemeSelector]
+MTSM=DABJDKT

@@ -1,4 +1,5 @@
-ra303p-data
-===========
+Data for Command & Conquer: Red Alert
+================================================================================
 
-Data files for the ra303p patch
+This the data for the game, the patches are availible at
+https://github.com/cnc-patch/ra303p.

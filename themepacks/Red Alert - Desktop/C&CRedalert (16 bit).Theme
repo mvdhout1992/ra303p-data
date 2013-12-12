@@ -1,0 +1,129 @@
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%\C&CRedalert\C&CRED~1.ICO,0
+
+[CLSID\{208D2C60-3AEA-1069-A2D7-08002B30309D}\DefaultIcon]
+DefaultValue=%ThemeDir%\C&CRedalert\C&CRED~2.ICO,0
+
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%ThemeDir%\C&CRedalert\C&CRedalert Recycle Bin Full.ico,0
+empty=%ThemeDir%\C&CRedalert\C&CRedalert Recycle Bin Empty.ico,0
+
+[Control Panel\Cursors]
+Arrow=%ThemeDir%\C&CRedalert\C&CRedalert Arrow.ani
+Help=%ThemeDir%\C&CRedalert\C&CRedalert Help.ani
+AppStarting=%ThemeDir%\C&CRedalert\C&CRedalert Wait.ani
+Wait=%ThemeDir%\C&CRedalert\C&CRedalert Busy.ani
+NWPen=
+No=%ThemeDir%\C&CRedalert\C&CRedalert No.ani
+SizeNS=%ThemeDir%\C&CRedalert\C&CRedalert Size NS.cur
+SizeWE=%ThemeDir%\C&CRedalert\C&CRedalert Size WE.cur
+Crosshair=%ThemeDir%\C&CRedalert\C&CRedalert Crosshair.ani
+IBeam=
+SizeNWSE=%ThemeDir%\C&CRedalert\C&CRedalert Size NESW.cur
+SizeNESW=%ThemeDir%\C&CRedalert\C&CRedalert Size NWSE.cur
+SizeAll=%ThemeDir%\C&CRedalert\C&CRedalert Size All.cur
+UpArrow=%ThemeDir%\C&CRedalert\C&CRedalert Up Arrow.cur
+DefaultValue=
+
+[Control Panel\Desktop]
+Wallpaper=%ThemeDir%\C&CRedalert\C&CREDALERT WALLPAPER.BMP
+Pattern=(None)
+TileWallpaper=0
+WallpaperStyle=2
+
+[AppEvents\Schemes\Apps\.Default\.Default\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Default Sound.wav
+
+[AppEvents\Schemes\Apps\.Default\AppGPFault\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Program Error.wav
+
+[AppEvents\Schemes\Apps\.Default\Maximize\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Maximize.wav
+
+[AppEvents\Schemes\Apps\.Default\MenuCommand\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Menu Popup.wav
+
+[AppEvents\Schemes\Apps\.Default\MenuPopup\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Menu Popup.wav
+
+[AppEvents\Schemes\Apps\.Default\Minimize\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Minimize.wav
+
+[AppEvents\Schemes\Apps\.Default\Open\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Open Program.wav
+
+[AppEvents\Schemes\Apps\.Default\Close\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Minimize.wav
+
+[AppEvents\Schemes\Apps\.Default\RestoreDown\.Current]
+DefaultValue=%ThemeDir%c&credalert\c&credalert Maximize.wav
+
+[AppEvents\Schemes\Apps\.Default\RestoreUp\.Current]
+DefaultValue=%ThemeDir%c&credalert\c&credalert Minimize.wav
+
+[AppEvents\Schemes\Apps\.Default\RingIn\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\Ringout\.Current]
+DefaultValue=
+
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Asterisk.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemDefault\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert System Default.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Exclamation.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemExit\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Windows Exit.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Asterisk.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemQuestion\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Question.wav
+
+[AppEvents\Schemes\Apps\.Default\SystemStart\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Windows Start.wav
+
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\.Current]
+DefaultValue=%ThemeDir%C&CRedalert\C&CRedalert Empty Recycle Bin.wav
+
+[Metrics]
+IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 248 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 121 99 108 101 32 66 105 110 46 119 97 118 0 0 0 0 0 0
+NonclientMetrics=84 1 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 98 105 116 41 46 84 104 101 109 101 0 221 64 0 1 0 0 0 15 0 0 0 15 0 0 0 248 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 98 105 116 41 46 84 104 101 109 101 0 221 64 0 1 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 98 105 116 41 46 84 104 101 109 101 0 221 64 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 98 105 116 41 46 84 104 101 109 101 0 221 64 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 77 83 32 83 97 110 115 32 83 101 114 105 102 0 98 105 116 41 46 84 104 101 109 101 0 221 64 0 1 0 0 0
+
+[Control Panel\Colors]
+ActiveTitle=0 128 0
+Background=0 128 128
+Hilight=0 128 0
+HilightText=255 255 255
+TitleText=255 255 255
+Window=255 255 255
+WindowText=0 0 0
+Scrollbar=192 192 192
+InactiveTitle=128 128 128
+Menu=192 192 192
+WindowFrame=0 0 0
+MenuText=0 0 0
+ActiveBorder=192 192 192
+InactiveBorder=192 192 192
+AppWorkspace=128 128 128
+ButtonFace=192 192 192
+ButtonShadow=128 128 128
+GrayText=128 128 128
+ButtonText=0 0 0
+InactiveTitleText=192 192 192
+ButtonHilight=255 255 255
+ButtonDkShadow=0 0 0
+ButtonLight=224 224 224
+InfoText=0 0 0
+InfoWindow=255 255 225
+
+[boot]
+SCRNSAVE.EXE=%WinDir%SYSTEM\STARFL~1.SCR
+
+[MasterThemeSelector]
+MTSM=DABJDKT
