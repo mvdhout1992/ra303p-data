@@ -43,8 +43,7 @@ Name: themepacks; Description: "Theme packs for older Windows"
 
 [Files]
 Source: "C:\Users\Maikel\Desktop\PortableRA\RedAlertLauncher.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\cncnet.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\cncnet.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Maikel\Desktop\PortableRA\cncnet5.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Maikel\Desktop\PortableRA\ddraw.dll"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Maikel\Desktop\PortableRA\ddraw.ini"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Users\Maikel\Desktop\PortableRA\music.ini"; DestDir: "{app}"; Flags: ignoreversion
