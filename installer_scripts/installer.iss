@@ -22,9 +22,9 @@ AppUpdatesURL={#MyAppURL}
 DefaultDirName={userdesktop}\PortableRA
 DefaultGroupName=Red Alert
 OutputBaseFilename=PortableRA setup
-SetupIconFile=C:\Users\Maikel\Desktop\PortableRA\Icon.ico
-WizardImageFile=C:\Users\Maikel\Desktop\PortableRA\installer.bmp
-WizardSmallImageFile=C:\Users\Maikel\Desktop\PortableRA\installersmall.bmp
+SetupIconFile=.\Icon.ico
+WizardImageFile=.\installer.bmp
+WizardSmallImageFile=.\installersmall.bmp
 Compression=lzma2/ultra64
 SolidCompression=yes
 UsePreviousAppDir=no
@@ -42,25 +42,25 @@ Name: themepacks; Description: "Theme packs for older Windows"
 [Tasks]
 
 [Files]
-Source: "C:\Users\Maikel\Desktop\PortableRA\RedAlertLauncher.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\cncnet5.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\ddraw.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\ddraw.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\music.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\campaign.mix"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\main.mix"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\scores.mix"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\wsock32.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\scores-extra.mix"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\ra95.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\redalert.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\redalert.mix"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\RedAlertConfig.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\Maikel\Desktop\PortableRA\readme\*"; DestDir: "{app}\readme"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\Maikel\Desktop\PortableRA\savegames\*"; DestDir: "{app}\"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: savegames
-Source: "C:\Users\Maikel\Desktop\PortableRA\Red Alert Manual.pdf"; DestDir: "{app}"; Flags: ignoreversion; Components: manual
-Source: "C:\Users\Maikel\Desktop\PortableRA\Map Editor\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: mapeditor
-Source: "C:\Users\Maikel\Desktop\PortableRA\Theme packs\*"; DestDir: "{app}\Theme packs"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: themepacks
+Source: ".\RedAlertLauncher.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\cncnet5.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\ddraw.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\ddraw.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\music.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\campaign.mix"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\main.mix"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\scores.mix"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\wsock32.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\scores-extra.mix"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\ra95.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\redalert.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\redalert.mix"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\RedAlertConfig.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\readme\*"; DestDir: "{app}\readme"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: ".\savegames\*"; DestDir: "{app}\"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: savegames
+Source: ".\Red Alert Manual.pdf"; DestDir: "{app}"; Flags: ignoreversion; Components: manual
+Source: ".\Map Editor\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: mapeditor
+Source: ".\Theme packs\*"; DestDir: "{app}\Theme packs"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: themepacks
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
